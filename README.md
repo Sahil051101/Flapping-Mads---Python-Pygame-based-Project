@@ -25,4 +25,12 @@ follow these steps :
 
 Now open this folder in your IDE and open Final_Game.py file and by running this file ,  you can play the game smoothly .
 
+Creators Info : 
 
+This Project is created by me and my 2 partners
+
+1) Km Soniya
+	Github Handle : https://github.com/Rizv123
+	
+2) Vinayak Saini
+	Github Handle : https://github.com/vinayak-2001
